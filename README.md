@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there :)
+I’m Claire, a Computer Science student at the University of Waterloo.
+- currently learning: web development
+- hoping to learn more about: human computer interaction, ML and its applications in hardware
+- I enjoy: music, drawing, crafts
+- looking for summer 2026 internships 
+- Take a look here (claireleu.com!)[claireleu.com]
 
 <!--
 **claireleu/claireleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
